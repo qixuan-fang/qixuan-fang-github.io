@@ -1,2 +1,2 @@
-# qixuan-fang-github.io
+# qixuan-fang.github.io
 Qixuan Fang's personal website
